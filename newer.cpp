@@ -1,4 +1,4 @@
-1;95;0c#include <iostream>
+#include <iostream>
 #include <cstring>
 #include <unistd.h>
 #include <fcntl.h>
